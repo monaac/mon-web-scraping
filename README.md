@@ -1,8 +1,7 @@
-# Awesome Web Scraping
+#  Web Scraping
 
 The list of tools, programming libraries and web services used for web scraping and data processing.
 
-Feel free to give feedback or ask web scraping questions in Telegram groups:  [@grablab](https://t.me/grablab) (English) and [@grablab_ru](https://t.me/grablab_ru) (Russian).
 
 ## Programming Libraries
 
@@ -33,7 +32,4 @@ Largest marketplaces in the world which contain offers from hundreds sellers and
 * https://www.blackhatworld.com/forums/proxies-for-sale.112/
 * https://forum.antichat.com/forums/147/
 
-## How to Contribute to this List
-
-See [Contributing](https://github.com/lorien/web-scraping/blob/master/CONTRIBUTING.md) guide.
 
